@@ -15,6 +15,6 @@ Nas tim tvoria clenovia:
 1. Johanka Jakubove
 2. Veronika Bojda
 3. Martin Vitan
-4.
+4. Samuel Dubný
 
 
