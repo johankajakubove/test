@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#uz sme to fixli takze fejkova zmena pre ulohu...
 void hanoi(int n, int a, int b)
 {
   if (n == 1) 
