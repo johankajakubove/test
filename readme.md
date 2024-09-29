@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Johanka Jakubove
-2.
+2. Veronika Bojda
 3.
 4.
 
